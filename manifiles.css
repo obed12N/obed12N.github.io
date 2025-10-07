@@ -1,0 +1,22 @@
+body{
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 80;
+    margin: auto;
+}
+
+.sectionstyle{
+    float: left;
+    margin-left: 6px;
+    width: 47%;
+}
+
+.Imglady{
+    width: 85%;
+    height: auto;
+}
+
+img{
+    width: 300px;
+    height: 250px;
+}
